@@ -18,3 +18,8 @@ Discussion in the Matlab community:
 
 .
 https://www.mathworks.com/matlabcentral/answers/538547-example-code-to-connect-a-bluetooth-smart-ble-heart-rate-sensor-to-matlab?s_tid=prof_contriblnk
+
+Discussion in DC Rainmakers Blog:
+
+.
+https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-page-1#comment-3574150
