@@ -16,4 +16,5 @@ https://www.youtube.com/watch?v=viR-2dUP55g&t=2s
 
 Discussion in the Matlab community:
 .
+.
 https://www.mathworks.com/matlabcentral/answers/538547-example-code-to-connect-a-bluetooth-smart-ble-heart-rate-sensor-to-matlab?s_tid=prof_contriblnk
