@@ -8,8 +8,6 @@ To stream sensor data from a Garmin sensor to Matlab or Python, it has in Matlab
 
 I could not find an option to stream sensor data further to PC applications in the Adafruit apps, but components of the Adafruit Open Source cycling computer are Arduino compatible. Arduinos can be connected over usb to Matlab. 
 
-The instruction for the Pyloton 
-
 It maybe will take some time to go through the instruction of the Pyloton, but it is an extraordinary device in that sense that it is very rare to find a device which is open source in the field of sporting devices. It is a device, which you don t have to develop first, and the instruction is excellent.
 
 
