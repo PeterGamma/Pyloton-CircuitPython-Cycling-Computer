@@ -10,4 +10,8 @@ I could not find an option to stream sensor data further to PC applications in t
 
 It maybe will take some time to go through the instruction of the Pyloton, but it is an extraordinary device in that sense that it is very rare to find a device which is open source in the field of sporting devices. It is a device, which you don t have to develop first, and the instruction is excellent.
 
+Pyloton - CLUE Bike computer
+
+https://www.youtube.com/watch?v=viR-2dUP55g&t=2s
+
 
