@@ -32,6 +32,7 @@ There is no real-time Open Source Data aquisiton software available fot the Pylo
 
 https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
 
+Adafrui'ts Little Secret - CLUE
 
-
+https://youtu.be/_7QsbwBeSiU
 
