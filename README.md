@@ -40,6 +40,7 @@ I was looking for optimal tools for meditators. Bike Computers seem to be specia
 
 Review I wrote in the DC Rainmakers Blog:
 
+https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-page-1#comment-3575038
 
 Here is a new one:
 
