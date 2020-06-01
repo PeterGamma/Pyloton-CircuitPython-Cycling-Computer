@@ -28,5 +28,10 @@ You can also download the instruction for the Pyloton from Adafruit, PDF is 55 p
 
 https://cdn-learn.adafruit.com/downloads/pdf/pyloton.pdf?timestamp=1590963864
 
+There is no real-time Open Source Data aquisiton software available fot the Pyloton. Integration into OpenSignals?
+
+https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
+
+
 
 
