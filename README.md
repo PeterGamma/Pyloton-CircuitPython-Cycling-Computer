@@ -23,3 +23,10 @@ Discussion in DC Rainmakers Blog:
 
 .
 https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-page-1#comment-3574150
+
+You can also download the instruction for the Pyloton from Adafruit, PDF is 55 pages:
+
+https://cdn-learn.adafruit.com/downloads/pdf/pyloton.pdf?timestamp=1590963864
+
+
+
