@@ -36,3 +36,4 @@ Adafrui'ts Little Secret - CLUE
 
 https://youtu.be/_7QsbwBeSiU
 
+I was looking for optimal tools for meditators. Bike Computers seem to be specially suitable for it. I was interested in the Garmin Varia Vision. It works best with Bike Computers. Now I m looking for a real time data aquisition system. Most promising looks a Bike Computer. I m happy that the Pytolon is an  Open Source cycling computer, so I can adapt it sooner or later to the needs of meditators.
