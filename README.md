@@ -36,6 +36,10 @@ https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-pag
 
 JOHN PARK'S WORKSHOP LIVE 2/13/20 Pyloton @adafruit @johnedgarpark 
 
-
 https://www.youtube.com/watch?v=5rAWbyKmK0s
 
+Make yourself free from the dependency of Gamin. Read the 55 pages of instruction for the Pyloton Open Source Bike computer (pdf printout):
+
+https://cdn-learn.adafruit.com/downloads/pdf/pyloton.pdf?timestamp=1591071856
+
+And build your own Pyloton. The only problem which is not descripted is how to read out sensor data from the Pyloton usb port. But this should be possible. There are many instructions for Matlab or Python how to connect to an Arduino through usb, and the Pyloton is Arduino compatible.
