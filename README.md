@@ -42,6 +42,8 @@ JOHN PARK'S WORKSHOP LIVE 2/13/20 Pyloton @adafruit @johnedgarpark
 
 https://www.youtube.com/watch?v=5rAWbyKmK0s
 
+https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
+
 Bluetooth BLE with Arduino IDE (Tutorial) and Polar H7
 
 https://www.youtube.com/watch?v=2mePPqiocUE&t=286s
