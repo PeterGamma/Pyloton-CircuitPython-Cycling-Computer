@@ -54,3 +54,6 @@ https://www.youtube.com/watch?v=2mePPqiocUE&t=286s
 
 https://learn.adafruit.com/pyloton
 
+Bluetooth GATT
+
+https://bluetoothle.wiki/gatt
