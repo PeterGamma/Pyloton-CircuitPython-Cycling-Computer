@@ -57,3 +57,7 @@ https://learn.adafruit.com/pyloton
 Bluetooth GATT
 
 https://bluetoothle.wiki/gatt
+
+Gatt Adafruit
+
+https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt
