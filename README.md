@@ -43,3 +43,7 @@ Make yourself free from the dependency of Gamin. Read the 55 pages of instructio
 https://cdn-learn.adafruit.com/downloads/pdf/pyloton.pdf?timestamp=1591071856
 
 And build your own Pyloton. The only problem which is not descripted is how to read out sensor data from the Pyloton usb port. But this should be possible. There are many instructions for Matlab, Python or other PC applications how to connect to an Arduino through usb, and the Pyloton is Arduino compatible.
+
+There is no real-time Open Source Data aquisiton software available for the Pyloton. Integration into OpenSignals?
+
+https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
