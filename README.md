@@ -24,3 +24,15 @@ You can also download the instruction for the Pyloton from Adafruit, PDF is 55 p
 
 https://cdn-learn.adafruit.com/downloads/pdf/pyloton.pdf?timestamp=1590963864
 
+Adafrui'ts Little Secret - CLUE
+
+https://youtu.be/_7QsbwBeSiU
+
+
+Discussion in DC Rainmakers Blog:
+
+.
+https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-page-1#comment-3574150
+
+JOHN PARK'S WORKSHOP LIVE 2/13/20 Pyloton @adafruit @johnedgarpark 
+
