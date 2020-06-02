@@ -41,3 +41,8 @@ https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html/comment-pag
 JOHN PARK'S WORKSHOP LIVE 2/13/20 Pyloton @adafruit @johnedgarpark 
 
 https://www.youtube.com/watch?v=5rAWbyKmK0s
+
+Bluetooth BLE with Arduino IDE (Tutorial) and Polar H7
+
+https://www.youtube.com/watch?v=2mePPqiocUE&t=286s
+
