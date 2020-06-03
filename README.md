@@ -57,3 +57,13 @@ My vision of the future of the Pyloton is:
 2. Do you know the new Linux Pinephone? I don t have one yet, but I certainly buy one. It is a real Linux Smartphone computer. A version of the Pyloton for the Linux Pinephone would be my favorite: large display, repleacable batteries, easy to use Linux platform for software developement. 
 
 All these things would make the Pyloton software project a great open source cycling computer which can compete with the latest bike computers from Garmin, or even beat them.
+
+For a Rasperri PI version I would choose the Rasperri PI zero, which can run up to 20h with a 4500 mAh battery. So you get an alternative for a Garmin watch, which has a battery life of about 20 h with GPS off. A Pyloton Rasperry PI zero would be much more attractive for me personally than  a Garmin watch, for me as a meditator, and also for many other who love computing :-)
+
+There is currently no solution for Matlab to directly access sensor data for instance from Garmin devices. A Pyloton Rasperri Pi could solve this problem. Rasperri Pi has excellent support in Matlab. BLE chest strap or Polar OH1 BLE heart rate  sensors are excellent research grade devices. These sensors are low cost high quality, and will be successful, not only for sporting activity, but also for science.
+ 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6732081/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6532910/
+
+
