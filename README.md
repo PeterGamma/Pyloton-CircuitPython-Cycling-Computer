@@ -48,6 +48,9 @@ There is no real-time Open Source Data aquisiton software available for the Pylo
 
 https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
 
+
+I copied my posts from the Adafruit youtube Video to this locatotion:
+
 https://www.youtube.com/watch?v=viR-2dUP55g&t=2s
 
 My vision of the future of the Pyloton is:
