@@ -66,4 +66,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6732081/
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6532910/
 
+The accuracy of the Polar H7 BLE chest strap and the Polar OH1 BLE optical heart rate sensors is near to an ECG device,  which are the most accurate heart rate measurement devices available. And they are low cost high quality, at about 10 percent of the cost of for instance an Adinstruments equipement with comparable accuracy. Support of the Polyoton for Matlab or desktop Python would make out of the Pyloton a research grade device, for research institutes, research scientists, and hobby scientists who want to write their own paper.
 
