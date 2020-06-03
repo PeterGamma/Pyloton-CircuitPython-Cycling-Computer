@@ -47,3 +47,13 @@ And build your own Pyloton. The only problem which is not descripted is how to r
 There is no real-time Open Source Data aquisiton software available for the Pyloton. Integration into OpenSignals?
 
 https://forum.bitalino.com/viewtopic.php?f=19&p=2207#p2207
+
+https://www.youtube.com/watch?v=viR-2dUP55g&t=2s
+
+My vision of the future of the Pyloton is:
+
+1. A version of the Pyoton for the Rasperri PI would be great, to have a storage card device as a data grabber to store data in an easy accessible way, for instance in Matlab friendly .csv. 
+
+2. Do you know the new Linux Pinephone? I don t have one yet, but I certainly buy one. It is a real Linux Smartphone computer. A version of the Pyloton for the Linux Pinephone would be my favorite: large display, repleacable batteries, easy to use Linux platform for software developement. 
+
+All these things would make the Pyloton software project a great open source cycling computer which can compete with the latest bike computers from Garmin, or even beat them.
