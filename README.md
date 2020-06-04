@@ -1,4 +1,4 @@
-Pyloton: Open Source cycling computer that displays heart rate, speed, cadence, and song playback info
+Pyloton: Open Source BLE Cycling Computer that displays heart rate, speed, cadence, and song playback info
 
 https://learn.adafruit.com/pyloton
 
