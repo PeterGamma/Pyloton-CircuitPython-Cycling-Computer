@@ -70,8 +70,9 @@ The Pyloton open source bike computer is based on the Adafruit clue circuit, que
 
 https://forums.adafruit.com/viewforum.php?f=65
 
+The Clue which is the Pyloton is based on is Arduino compatible, and is should be possible to stream sensor data from the Pyloton to Matlab or Python:
 
-
+https://forums.adafruit.com/viewtopic.php?f=65&t=166045&p=815086#p815086
 
 
 
